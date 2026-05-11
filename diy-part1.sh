@@ -1,4 +1,9 @@
 #!/bin/bash
+# OpenClash
+git clone https://github.com/vernesong/OpenClash package/OpenClash
+
+# AdGuardHome
+git clone https://github.com/rufengsuixing/luci-app-adguardhome package/luci-app-adguardhome
 #
 # https://github.com/P3TERX/Actions-OpenWrt
 # File name: diy-part1.sh
